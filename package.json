@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/xunyicao1008/web-scraper/issues"
   },
-  "homepage": "https://github.com/xunyicao1008/web-scraper#readme"
+  "homepage": "https://github.com/xunyicao1008/web-scraper#readme",
+  "dependencies": {
+    "phantomjs": "1.9.8",
+    "phantom": "2.0.0",
+    "scraperjs": "^1.2.0",
+    "x-ray": "^2.3.2"
+  }
 }
